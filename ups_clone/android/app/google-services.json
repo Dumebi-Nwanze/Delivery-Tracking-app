@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "605278579284",
+    "project_id": "ups-clone-c16f4",
+    "storage_bucket": "ups-clone-c16f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605278579284:android:6c42086d7f31f17aa29bc1",
+        "android_client_info": {
+          "package_name": "com.example.ups_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605278579284-k2bngtnh5ag9msdujptq2ohagilrdsp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtSSdiB5fFSmT7QVsaMaWZu4prEYy3xuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605278579284-k2bngtnh5ag9msdujptq2ohagilrdsp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605278579284-ejblpia3ptuafj4b6u6qtuntgmnflok6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.upsClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
